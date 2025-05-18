@@ -441,7 +441,7 @@ app.get("/", (req, res) => {
           <img src="assets/images/logo.png" alt="App Logo" />
           <div>
             <h1>Virtua Mod Server Dashboard</h1>
-            <p>3D Virtually Perfect</p>
+            <p>Smart Artificial Intelligence</p>
           </div>
         </div>
         <div class="main-content">
@@ -458,7 +458,7 @@ app.get("/", (req, res) => {
           <div class="recent-activities">
             <h2>Recent Activities</h2>
             <ul>
-              <li>Updated privacy policy on 1st Dec 2025</li>
+              <li>Updated privacy policy on 1st May 2025</li>
               <li>New feature "Dark Mode" released</li>
               <li>Performance optimization completed</li>
             </ul>
@@ -481,17 +481,17 @@ app.get("/", (req, res) => {
         <div class="team-section">
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 1" />
-            <h4>Muhammad Ahsan</h4>
+            <h4>Muhammad Talha</h4>
             <p>Backend Developer</p>
           </div>
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 2" />
-            <h4>Huzaifa</h4>
+            <h4>Shayan Ahmed</h4>
             <p>UI/UX Designer</p>
           </div>
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 3" />
-            <h4>Ahmed</h4>
+            <h4>Muneera Rehman</h4>
             <p>Project Manager</p>
           </div>
         </div>
