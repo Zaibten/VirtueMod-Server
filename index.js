@@ -107,7 +107,7 @@ const emailHTML = `
     box-shadow: 0 4px 12px rgba(0,0,0,0.05);
   ">
     <div style="text-align:center; margin-bottom:25px;">
-      <img src="cid:logo" alt="Virtua Mod Logo" style="
+      <img src="cid:logo" alt="Virtue Mod Logo" style="
         width:100px; 
         height:100px; 
         object-fit:cover; 
@@ -126,7 +126,7 @@ const emailHTML = `
         font-size:15px; 
         margin-top:0; 
         font-weight:500;
-      ">from <strong>Virtua Mod</strong> website 🌐</p>
+      ">from <strong>Virtue Mod</strong> website 🌐</p>
     </div>
     <div style="color:#111827; font-size:16px; line-height:1.6;">
       <p>👤 <strong>Name:</strong> ${name}</p>
@@ -144,12 +144,12 @@ const emailHTML = `
     <hr style="margin:35px 0; border:none; border-top:1px solid #e5e7eb;" />
     <footer style="text-align:center; font-size:13px; color:#9ca3af; line-height:1.4;">
       <p style="margin:0 0 6px 0;">
-        Virtua Mod &nbsp;&bull;&nbsp; 
-        <a href="mailto:contact@virtuamod.com" style="color:#4F46E5; text-decoration:none;">✉️ contact@virtuamod.com</a> &nbsp;&bull;&nbsp; 📞 +92 300 1234567
+        Virtue Mod &nbsp;&bull;&nbsp; 
+        <a href="mailto:contact@Virtuemod.com" style="color:#4F46E5; text-decoration:none;">✉️ contact@Virtuemod.com</a> &nbsp;&bull;&nbsp; 📞 +92 300 1234567
       </p>
       <p style="margin:0;">
-        <a href="https://www.virtuamod.com" target="_blank" style="color:#4F46E5; text-decoration:none; font-weight:600;">
-          🌍 www.virtuamod.com
+        <a href="https://www.Virtuemod.com" target="_blank" style="color:#4F46E5; text-decoration:none; font-weight:600;">
+          🌍 www.Virtuemod.com
         </a>
       </p>
     </footer>
@@ -158,7 +158,7 @@ const emailHTML = `
 
 
     await transporter.sendMail({
-      from: `"Virtua Mod Contact" <${process.env.EMAIL_USER}>`,
+      from: `"Virtue Mod Contact" <${process.env.EMAIL_USER}>`,
       to: process.env.EMAIL_USER,
       subject: `Contact Form Submission from ${name}`,
       html: emailHTML,
@@ -185,7 +185,7 @@ app.get("/", (req, res) => {
     <head>
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <title>Virtua Mod Server Dashboard</title>
+      <title>Virtue Mod Server Dashboard</title>
       <link rel="icon" href="assets/images/logo.png">
       <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
       <style>
@@ -440,8 +440,8 @@ app.get("/", (req, res) => {
         <div class="header">
           <img src="assets/images/logo.png" alt="App Logo" />
           <div>
-            <h1>Virtua Mod Server Dashboard</h1>
-            <p>3D Virtually Perfect</p>
+            <h1>Virtue Mod Server Dashboard</h1>
+            <p>Smart Artificial Intelligence</p>
           </div>
         </div>
         <div class="main-content">
@@ -458,7 +458,7 @@ app.get("/", (req, res) => {
           <div class="recent-activities">
             <h2>Recent Activities</h2>
             <ul>
-              <li>Updated privacy policy on 1st Dec 2025</li>
+              <li>Updated privacy policy on 1st May 2025</li>
               <li>New feature "Dark Mode" released</li>
               <li>Performance optimization completed</li>
             </ul>
@@ -481,22 +481,22 @@ app.get("/", (req, res) => {
         <div class="team-section">
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 1" />
-            <h4>Muhammad Ahsan</h4>
+            <h4>Taha Bin Arshad</h4>
             <p>Backend Developer</p>
           </div>
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 2" />
-            <h4>Huzaifa</h4>
+            <h4>Shayan Ahmed</h4>
             <p>UI/UX Designer</p>
           </div>
           <div class="team-member">
             <img src="https://png.pngtree.com/png-clipart/20190520/original/pngtree-vector-users-icon-png-image_4144740.jpg" alt="Team Member 3" />
-            <h4>Ahmed</h4>
+            <h4>Muneera Rehman</h4>
             <p>Project Manager</p>
           </div>
         </div>
         <footer>
-          <p>&copy; 2025 Virtua Mod. All rights reserved. <a href="#">Terms</a> | <a href="#">Privacy Policy</a></p>
+          <p>&copy; 2025 Virtue Mod. All rights reserved. <a href="#">Terms</a> | <a href="#">Privacy Policy</a></p>
         </footer>
       </div>
       <script>

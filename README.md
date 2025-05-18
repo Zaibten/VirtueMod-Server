@@ -1,4 +1,4 @@
-# 🌟 Virtue Mod
+# 🌟 Virtue Mod Server
 
 > *The future of AI-powered image generation and management.*
 
